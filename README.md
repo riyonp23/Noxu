@@ -15,8 +15,8 @@ Ever had your parents walk in when you are gaming and want to mute everything wi
 
 ## Requirements
 * **OS:** Windows 10 & 11, Linux
-* **SPACE:** 50 MB
-* **RAM:** 25 MB
+* **SPACE:** 15 MB
+* **RAM:** 50 MB
 
 ## Source Code
 Coded In [Python 3.5]()
