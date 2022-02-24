@@ -19,4 +19,4 @@ Ever had your parents walk in when you are gaming and want to mute everything wi
 * **RAM:** 50 MB
 
 ## Source Code
-Coded In [Python 3.5](https://github.com/skyy-rad/Noxu/blob/main/source/main.py) *211 Lines Of Code**
+Coded In [Python 3.5](https://github.com/skyy-rad/Noxu/blob/main/source/main.py) *211 Lines Of Code*
