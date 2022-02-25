@@ -2,7 +2,7 @@
 Developed By [$ky](https://github.com/skyy-rad)
 
 ## What Is It?
-Ever had your parents walk in when you are gaming and want to mute everything with one button? You can now with Noxu, Shift+A the noise away!
+Ever had your parents walk in when you are gaming and want to mute everything with one button? With Noxu, Shift+A the noise away!
 
 ## How It Works
 * Download As ZIP (MAKE SURE TO HAVE ASSETS FOLDER IN THE SAME FOLDER AS THE EXE)
